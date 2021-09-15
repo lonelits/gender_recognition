@@ -1,0 +1,10 @@
+DATA_PATH: 'data'
+NUM_WORKERS: 4
+CROP_OUTPUT_SIZE: 160
+NUM_CLASSES: 2
+EPOCH_NUM: 30
+image_mean: [0.5, 0.5, 0.5]
+image_std: [0.25, 0.25, 0.25]
+CROP_BATCH_SIZE: 32
+BATCH_SIZE: 256
+learning_rate: 3e-4
