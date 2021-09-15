@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+**/__pycache__/**
+imagewoof2-320/
+data/
+data_backup/
+images/
+parser_template.ipynb
